@@ -31,5 +31,4 @@ canvas {
     border: 5px solid wheat;
     border-radius: 20px;
     box-shadow: 3px 3px 10px rgb(255, 252, 60);
-    background-image: linear-gradient(to right, #ff94c7, #f9abdd, #f4c1ed, #f1d5f8, #f3e8fe, #edf0ff, #eef7ff, #f5fcff, #e7fcff, #d8fdfe, #cbfdf6, #c4fde9);
 }
